@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+storage/uploads/*
+storage/outputs/*
+storage/temp/*
+ai_models/*.onnx
